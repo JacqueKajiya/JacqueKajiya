@@ -3,8 +3,6 @@
 - 💞️ I’m looking to collaborate on health related projects through programming skills
 - 📫 How to reach me: jacquelinekajiya@gmail.com
 
-##
-
  <h2>Tecnologies</h2>
  
 <div style="display: inline_block"><br>
@@ -14,7 +12,6 @@
   <img align="center" alt="Jacque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jacque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
  
  <h2>Social Media </h2>
  
