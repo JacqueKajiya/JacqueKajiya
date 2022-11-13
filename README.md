@@ -1,7 +1,9 @@
-- 👋 Hello! I’m Jacqueline Yumi Kajiya
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on health related projects through programming skills
-- 📫 How to reach me: jacquelinekajiya@gmail.com
+👋 Hello! I’m Jacqueline Yumi Kajiya
+🌱 I’m currently learning React
+💞️ I’m looking to collaborate on health related projects through programming skills
+📫 How to reach me: jacquelinekajiya@gmail.com
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jacque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
