@@ -1,7 +1,7 @@
-👋 Hello! I’m Jacqueline Yumi Kajiya
-🌱 I’m currently learning React
-💞️ I’m looking to collaborate on health related projects through programming skills
-📫 How to reach me: jacquelinekajiya@gmail.com
+- 👋 Hello! I’m Jacqueline Yumi Kajiya
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on health related projects through programming skills
+- 📫 How to reach me: jacquelinekajiya@gmail.com
 
 ##
 
