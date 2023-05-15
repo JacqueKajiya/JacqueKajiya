@@ -1,5 +1,5 @@
 - 👋 Hello! I’m Jacqueline Yumi Kajiya a Frontend developer!
-- 🌱 I’m currently learning React
+- 🌱 I’m currently doing projects using mainly React, Typescript and Databases (postgreSQL, Django)
 - 💞️ I’m looking to collaborate on health related projects through programming skills
 - 📫 How to reach me: jacquelinekajiya@gmail.com
 
