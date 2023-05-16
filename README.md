@@ -1,4 +1,4 @@
-- 👋 Hello! I’m Jacqueline Yumi Kajiya a Frontend developer!
+- 👋 Hello! I’m Jacqueline Yumi Kajiya,  used to be a Dietitian, now I'm a Frontend developer!
 - 🌱 I’m currently doing projects using mainly React, Typescript and Databases (postgreSQL, Django)
 - 💞️ I’m looking to collaborate on health related projects through programming skills
 - 📫 How to reach me: jacquelinekajiya@gmail.com
